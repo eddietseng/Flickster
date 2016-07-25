@@ -30,6 +30,8 @@ Optional user stories:
 Additional:
 * [x] Replace ListView with RecyclerView.
  
+The data source in this app is from [*The Movie Database*](http://docs.themoviedb.apiary.io/).
+Special thanks to the *android-async-http*, *Picasso*, and *YouTube* open-source libraries.
 
 Walkthrough of all user stories:
 
