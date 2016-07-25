@@ -33,7 +33,8 @@ Additional:
 
 Walkthrough of all user stories:
 
-![Video Walkthrough]()
+![Video Walkthrough](FlicksterDemo_API_21.gif)
+![Video Walkthrough](FlicksterDemo_API_21_Land.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
